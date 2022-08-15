@@ -2,11 +2,6 @@
 
 Name: SAI RUKESH KANTHETI  
 
-
-[![Production Workflow]() <-Put your own badge code here.
-
-[Production Deployment]([![GitHub Classroom Workflow](https://github.com/NJIT-WIS/final-project-2-Ruke3663/actions/workflows/classroom.yml/badge.svg)](https://github.com/NJIT-WIS/final-project-2-Ruke3663/actions/workflows/classroom.yml))
-
 ## Setting up CI/CD
 
 The result of this will be that when you create a pull request to merge a branch to master, it will deploy to your
